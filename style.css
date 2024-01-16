@@ -1,0 +1,21 @@
+body{
+background: url(pngtree-ethereal-lavender-and-beige-fluid-art-abstract-background-iridescent-painted-textures-image_13911514.png);
+    text-align: center;
+    background-position-x: center;
+ 
+}
+.img{
+    align-items: center;
+}
+.img img{
+    width: 30%;
+}
+.vdo{
+    width: 45%;
+}
+#one{
+    background-color: plum;
+}
+#ad{
+    font-size: 30px;
+}
